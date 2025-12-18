@@ -86,11 +86,6 @@ Exemplos de pipelines Jenkins com execução em containers e integração com fe
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexpaulodejesus&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaulodejesus&layout=compact)
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexpaulodejesus&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaulodejesus&layout=compact)
 
 
 ---
