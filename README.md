@@ -1,76 +1,96 @@
-## Hi, I'm Alex Paulo
+# Olá, eu sou **Alex Paulo**
 
-- 💻 I'm work with Quality Assurance.
+🎯 **QA Engineer | Automação de Testes | Performance | CI/CD**
 
-- 🚀 I'm interested in test automation.
+Sou um profissional da área de **Qualidade de Software (QA)** com foco em **automação de testes, integração contínua e testes de performance**. Tenho experiência prática criando pipelines, scripts de testes e relatórios que ajudam times a entregarem software com mais qualidade e confiança.
 
-- 🌱 I'm learning Cypress with Javascript.
+---
 
-- 🔨 I'm looking to collaborate on projects.
+## 🚀 Sobre mim
 
-- 📫 Contact me via bio.
+* 📚 Estudando da certificação **CTFL – ISTQB Foundation Level**
+* 🧪 Atuação em **testes automatizados (UI e API)**
+* ⚙️ Experiência com **CI/CD, containers e testes em paralelo**
+* 📈 Interesse constante em **boas práticas de qualidade, métricas e melhoria contínua**
 
-<br>
-Programming languages <br><br>
- 
+---
 
-<p>
-    <img src=https://img.shields.io/badge/-Java%20-%23525252.svg?style=flat&logo=Java&logoColor=white&>
-    <img src=https://img.shields.io/badge/-JavaScript%20-%23525252.svg?style=flat&logo=JavaScript&logoColor=yellow&>
-    <img src=https://img.shields.io/badge/-Nodejs%20-%23525252.svg?style=flat&logo=node.js&>
-    <img src=https://img.shields.io/badge/-Html5%20-%23525252.svg?style=flat&logo=html5&>
-    <img src=https://img.shields.io/badge/-Css3%20-%23525252.svg?style=flat&logo=css3&>
-</p>
-<br>
+## 🛠️ Tecnologias & Ferramentas
 
-Frameworks
-<p>
-    <img src=https://img.shields.io/badge/-JUnit%20-%23525252.svg?style=flat&logo=cachet&>
-    <img src=https://img.shields.io/badge/-Maven%20-%23525252.svg?style=flat&logo=apache-maven&logoColor=ffb9b4&>
-    <img src=https://img.shields.io/badge/-Cucumber%20-%23525252.svg?style=flat&logo=cucumber&>
-    <img src=https://img.shields.io/badge/-Selenium%20-%23525252.svg?style=flat&logo=selenium&>
-    <img src=https://img.shields.io/badge/-Git%20-%23525252.svg?style=flat&logo=git&>
-    <img src=https://img.shields.io/badge/-GitHub%20-%23525252.svg?style=flat&logo=github&>
-    <img src=https://img.shields.io/badge/-Visual%20Studio%20Code%20-%23525252.svg?style=flat&logo=visual-studio-code&logoColor=007ACC&>
-    <img src=https://img.shields.io/badge/-IntelliJ%20-%23525252.svg?style=flat&logo=jetbrains&>
-    <img src=https://img.shields.io/badge/-Postman%20-%23525252.svg?style=flat&logo=postman&>
-    <img src=https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=purple&>
-    <img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&>
-    <img src=https://img.shields.io/badge/-AndroidStudio%20-%23525252.svg?style=flat&logo=android-studio&>
-    <img src=https://img.shields.io/badge/-Appium%20-%23525252.svg?style=flat&logo=selenium&logoColor=purple&>
-    <img src=https://img.shields.io/badge/-MySQL%20-%23525252.svg?style=flat&logo=mysql&logoColor=white&>
-  <img src=https://img.shields.io/badge/-PostgreSQL%20-%23525252.svg?style=flat&logo=postgresql&>
-  <img src=https://img.shields.io/badge/MongoDB%20-%23525252.svg?style=flat&logo=MongoDB&>
-  <img src=https://img.shields.io/badge/-Windows%20-%23525252.svg?style=flat&logo=Windows&>
-</p>
+### 🔹 Testes & Qualidade
 
+* Cypress
+* Postman
+* K6
+* Allure Reports
 
-<br>
+### 🔹 Dev & Automação
 
-<div align="left">
-  <a href="https://github.com/alexpaulodejesus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexpaulodejesus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaulodejesus&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
+* JavaScript
+* Node.js
+* Git / GitHub
 
-  
-  ##
-  
-  
+### 🔹 CI/CD & Infra
 
-  
-  <div> 
-  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCW2RWwvALapOX27o14OOvvg)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alexpaulo.pc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alex-paulo-800368114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+* Jenkins
+* GitHub Actions
+* Docker
 
+### 🔹 Metodologias
 
-<!---
-alexpaulodejesus/alexpaulodejesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Scrum
+* Agile
+
+---
+
+## 📌 O que eu faço na prática
+
+🧩 **Automação de Testes com Cypress**
+Criação de testes E2E, integração e API, com organização em Page Objects, sessões e boas práticas.
+
+🔁 **Integração Contínua (CI/CD)**
+Configuração de pipelines no Jenkins com execução automática de testes, paralelismo e geração de relatórios.
+
+⚡ **Testes de Performance com k6**
+Scripts de carga, stress, spike e soak para validação de APIs e aplicações web.
+
+📊 **Relatórios e métricas de qualidade**
+Geração de relatórios com Allure e análise de resultados para apoio à tomada de decisão.
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 **Automação com Cypress**
+Projeto completo de testes automatizados para aplicações web, pronto para CI/CD.
+
+🔹 **Testes de Performance com k6**
+Scripts organizados por tipo de teste (load, stress, spike, soak) com geração de relatório HTML.
+
+🔹 **Pipelines CI/CD para QA**
+Exemplos de pipelines Jenkins com execução em containers e integração com ferramentas de qualidade.
+
+*(Fixe seus repositórios favoritos no perfil para destacá-los aqui)*
+
+---
+
+## 📬 Onde me encontrar
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/alexpaulodejesus/](https://www.linkedin.com/in/alexpaulodejesus/)
+* 🐙 GitHub: [https://github.com/seu-usuario](https://github.com/alexpaulodejesus)
+* ✉️ Email: [seu.email@exemplo.com](alexpaulo.pc@gmail.com)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+> Você pode adicionar gráficos automáticos aqui, como linguagens mais usadas e estatísticas de commits usando GitHub Readme Stats.
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)
+```
+
+---
+
+✨ *Sempre buscando evoluir como profissional de qualidade e contribuir com projetos que fazem a diferença.*
