@@ -70,7 +70,6 @@ Scripts organizados por tipo de teste (load, stress, spike, soak) com geração 
 🔹 **Pipelines CI/CD para QA**
 Exemplos de pipelines Jenkins com execução em containers e integração com ferramentas de qualidade.
 
-*(Fixe seus repositórios favoritos no perfil para destacá-los aqui)*
 
 ---
 
