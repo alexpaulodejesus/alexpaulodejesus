@@ -83,12 +83,15 @@ Exemplos de pipelines Jenkins com execução em containers e integração com fe
 
 ## 📈 Estatísticas do GitHub
 
-> Você pode adicionar gráficos automáticos aqui, como linguagens mais usadas e estatísticas de commits usando GitHub Readme Stats.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexpaulodejesus&show_icons=true)
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaulodejesus&layout=compact)
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexpaulodejesus&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpaulodejesus&layout=compact)
+
 
 ---
 
